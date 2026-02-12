@@ -47,9 +47,28 @@ def allowed_file(filename):
     return '.' in filename and filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS
 
 
-@app.route('/')
-def index():
-    """Serve the main HTML interface"""
+@app.route('/', defaults={'path': ''})
+@app.route('/<path:path>')
+def index(path):
+    """Serve the main HTML interface or static assets"""
+    # Prefer production build if available
+    dist_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'frontend', 'document-insight-engine-main', 'dist'))
+    
+    # If it's an API request, let the other routes handle it
+    # Flask matches routes in order of definition, but since this is a catch-all,
+    # we should check if it's explicitly an API path or a known file.
+    if path.startswith('api/'):
+        # This shouldn't be reached if API routes are defined, but just in case
+        return jsonify({"error": "Not Found"}), 404
+
+    if path != "" and os.path.exists(os.path.join(dist_dir, path)):
+        return send_from_directory(dist_dir, path)
+    
+    # Default to index.html for the root or for SPA routing
+    if os.path.exists(os.path.join(dist_dir, 'index.html')):
+        return send_file(os.path.join(dist_dir, 'index.html'))
+    
+    # Fallback to dev index
     return send_file('index.html')
 
 

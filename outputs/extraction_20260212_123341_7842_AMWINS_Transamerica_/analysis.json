@@ -1,0 +1,16 @@
+{
+  "extraction_metadata": {
+    "extraction_date": "2026-02-12T12:34:52.632015",
+    "method": "pymupdf-tesseract-enhanced-chunked",
+    "num_pages": 3,
+    "source_file": "AMWINS_Transamerica_BLH_Feb-25_Inv.pdf",
+    "session_id": "20260212_123341_7842_AMWINS_Transamerica_",
+    "target_claim": null
+  },
+  "report_date": null,
+  "policy_number": null,
+  "insured_name": null,
+  "policy_period": null,
+  "total_claims": 0,
+  "claims_validation_summary": []
+}

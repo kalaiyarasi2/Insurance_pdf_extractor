@@ -1,0 +1,35 @@
+{
+  "extraction_metadata": {
+    "extraction_date": "2026-02-12T12:16:00.422934",
+    "method": "pymupdf-tesseract-enhanced-chunked",
+    "num_pages": 1,
+    "source_file": "State_Fund_Online_-_22-23_1.pdf",
+    "session_id": "20260212_121541_4643_State_Fund_Online_-_",
+    "target_claim": null
+  },
+  "report_date": "2025-07-29",
+  "policy_number": "9322650-2022",
+  "insured_name": "0 & L MAINTENANCE SERVICE, INC",
+  "policy_period": "08-11-2022 to 08-11-2023",
+  "total_claims": 3,
+  "claims_validation_summary": [
+    {
+      "claim_number": "06882022",
+      "math_valid": true,
+      "math_diff": 0.0,
+      "confidence_score": null
+    },
+    {
+      "claim_number": "06900294",
+      "math_valid": true,
+      "math_diff": 0.0,
+      "confidence_score": null
+    },
+    {
+      "claim_number": "06856842",
+      "math_valid": true,
+      "math_diff": 0.0,
+      "confidence_score": null
+    }
+  ]
+}

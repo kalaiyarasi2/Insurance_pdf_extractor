@@ -1,0 +1,1468 @@
+================================================================================
+PDF DOCUMENT EXTRACTION (pdfplumber)
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+
+                                                                                    
+                                                                                    
+                    Aetna                                                   
+                    Attn:BillingStatementDist                                       
+                    P.O.BOX818023                                                   
+                    ClevelandOH44181-8023                                           
+                                                                                    
+     BLHACQUISITIONSCO., LLC                                                        
+                                                                                    
+                                                                                    
+     BLHACQUISITIONSCO.,LLC                                    
+     BETHKEGERISE                                             
+     9007BRITTANYWAY                                                
+     TAMPAFL33619-0000                                       
+                                                                    
+                                                    
+                                                   PaymentDueDate:02/01/25          
+
+[TABLE 1]
+--------------------------------------------------------------------------------
+SUMMARYOFACCOUNT:                                                                                          |                                   
+-----------------------------------------------------------------------------------------------------------+-----------------------------------
+OpeningBalance                                                                                             | $101,853.83                       
+PaidDate01/10/25PaymentID:202501090000
+TotalPaymentsReceivedSinceLastInvoice                               | $101,853.83
+$101,853.83           
+CurrentInforceCharges
+RetroactivityCharges
+CurrentAdmin/OtherAdjustmentCharges
+CurrentProgram&Othercharges | $116,069.20
+$16,392.75
+$0.00
+$0.00
+CurrentNetCharges                                                                                          | $132,461.95                       
+AMOUNTDUE:                                                                                                 | $132,461.95                       
+--------------------------------------------------------------------------------
+
+[TABLE 2]
+--------------------------------------------------------------------------------
+Totalamountdueincludesthepremiumduetoyourhealthplan,aswellasanyservicefeeyouarepayingyour
+brokerasoutlinedintheexecutedbillingandcollectionagreement.Pleaserefertoyourcopyofthebillingand
+collectionagreementfordetails.Ifyouhaveanyquestions,pleasecontactyourAccountManager.                                                                                                                                                                                                                                                                                                                                                                                                     
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ImportantNoticetoInsuredCustomers--PleaseRead:Thetotalamountisdueonthefirstdayofthemonthly
+coverageperiod.Ifthetotalamountisnotreceivedbytheendofthegraceperiod,thecontractwillbeterminated.Youwill
+beliableforthetotalamountdueforallperiodsofcoverage(includingthegraceperiod)unlessyouprovideatleast30
+daysofadvancewrittennoticeofyourintenttoterminate.Ifyouhavemorethanoneinvoice,youmustpayeachinvoice
+separatelyorsupplysupportdetailingtheamounttoapplytoeachinvoice.Ifyoufailtosupplythissupportyourpayment
+willbeappliedproportionatelytoeachinvoiceforthatmonth.Ifthetotalamountdueforallinvoicesisnotreceived,you
+maybeinarrearsonallinvoices,andsubjecttotermination.
+AetnaandAetnaBusinessplansadministeredbyAetnawillappearasALICorAHMonyourfinancialinstitutionstatement                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+--------------------------------------------------------------------------------
+
+                                                                                    
+     Payonlinehttp://www.aetna.com/employer-plans/index.htmlorcall877-404-7115.Paybycheckpleaseincludeyourinvoice
+     numberand/oraccountnumberonyourcheck.                                          
+     Wanttogopaperless?Justcall888-981-2881foreBusinessoptionsorbillingquestions. ThankyouforyourBusiness.
+                      Detach & return withpayment inthe enclosed envelope.          
+                                                                                    
+                                                               
+                                                              
+                                                                    
+          Please make checks payable to:                     
+                                                                    
+                                                    
+          AETNA                                                                     
+          P.O.BOX804735                                                             
+
+[TABLE 3]
+--------------------------------------------------------------------------------
+Please Pay By   | Amount Due 
+----------------+------------
+February01,2025 | $132,461.95
+--------------------------------------------------------------------------------
+
+                                                                                    
+                                                  CheckBoxforChangeofAddress.SeeReverse.
+                                                                                    
+       02 1367 0000000118631052 1001 J2131952 00013246195 3                         
+
+
+================================================================================
+PAGE 2
+================================================================================
+
+                                                                                    
+                                                                                    
+                                                                            
+                     *PlanKey                                                       
+                      Pleasereferencethiskeywhilereviewingmembershipatbenefitlevel. 
+
+[TABLE 1]
+--------------------------------------------------------------------------------
+Product | SpecificPlanType   | *Type
+--------+--------------------+------
+Medical | OAPOS              | 0023 
+        | PPO                | 0024 
+        | InformedHealthLine | 0106 
+--------------------------------------------------------------------------------
+
+[TABLE 2]
+--------------------------------------------------------------------------------
+*TransType | TransTypeDefinition
+-----------+--------------------
+N          | NewEmployee        
+T          | TerminatedEmployee 
+C          | ChangedEmployee    
+R          | ReinstatedEmployee 
+--------------------------------------------------------------------------------
+
+[TABLE 3]
+--------------------------------------------------------------------------------
+FamilyCode | Description  
+-----------+--------------
+1          | EE           
+2          | EE+Spouse    
+3          | EE+Child(ren)
+4          | EE+Family    
+--------------------------------------------------------------------------------
+
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+    Please insert Change of Address information in the space provided               
+                                                                                    
+    Name                                                                            
+                                                                                    
+    Addr1                                                                           
+                                                                                    
+    Addr2                                                                           
+                                                                                    
+    City,State,Zip                                                                  
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+
+
+================================================================================
+PAGE 3
+================================================================================
+
+                                                                                    
+                                                                                    
+                                                                            
+                                                               
+                                                              
+                                                                    
+                                                    AccountNumber: 118631052        
+                                                                    
+                                                    
+     BLHACQUISITIONSCO., LLC                                                        
+                                                                                    
+                      CURRENT   INFORCE  CHARGES                                    
+
+[TABLE 1]
+--------------------------------------------------------------------------------
+Empl
+Name               | Empl
+ID   | FamilyCode | Medical   |               | Total    
+------------------------+-----------+------------+-----------+---------------+----------
+                        |           |            | *Type     | Amount        |          
+1600OAMCH.S.A
+ACTIVE    |           |            |           |               |          
+Arnold,Stephanie        | xxxxx2387 | 1          | 0023
+0106 | 745.01
+0.00   | $745.01  
+Brammer,Lori-ann        | xxxxx8154 | 2          | 0023
+0106 | 1,638.94
+0.00 | $1,638.94
+Breland,Gregory         | xxxxx5993 | 2          | 0023
+0106 | 1,638.94
+0.00 | $1,638.94
+Chandler,Sherrill       | xxxxx1516 | 1          | 0023
+0106 | 745.01
+0.00   | $745.01  
+Cochran,William         | xxxxx7986 | 1          | 0023
+0106 | 745.01
+0.00   | $745.01  
+Currence,Christopher    | xxxxx1109 | 1          | 0023
+0106 | 745.01
+0.00   | $745.01  
+Estradavillalobos,Bruno | xxxxx6999 | 1          | 0023
+0106 | 745.01
+0.00   | $745.01  
+Frierson,Roberta        | xxxxx7493 | 1          | 0023
+0106 | 745.01
+0.00   | $745.01  
+Garcia,Jennifer         | xxxxx1565 | 1          | 0023
+0106 | 745.01
+0.00   | $745.01  
+Getz,Christopher        | xxxxx3684 | 1          | 0023
+0106 | 745.01
+0.00   | $745.01  
+Grady,Douglas           | xxxxx1226 | 1          | 0023
+0106 | 745.01
+0.00   | $745.01  
+Hernandez,Johana        | xxxxx1069 | 1          | 0023
+0106 | 745.01
+0.00   | $745.01  
+Jamerson,Marquita       | xxxxx3987 | 1          | 0023
+0106 | 745.01
+0.00   | $745.01  
+Jarvis,Robert           | xxxxx9105 | 1          | 0023
+0106 | 745.01
+0.00   | $745.01  
+Junker,Dennis           | xxxxx0036 | 1          | 0023      | 745.01        | $745.01  
+--------------------------------------------------------------------------------
+
+                                                                                    
+                      *SeePlanKey                                                   
+                                                                                    
+
+
+================================================================================
+PAGE 4
+================================================================================
+
+                                                                                    
+                                                                                    
+                                                                            
+                                                               
+                                                              
+                                                                    
+                                                    AccountNumber: 118631052        
+                                                                    
+                                                    
+     BLHACQUISITIONSCO., LLC                                                        
+                                                                                    
+                      CURRENT   INFORCE  CHARGESCONT.                               
+
+[TABLE 1]
+--------------------------------------------------------------------------------
+Empl
+Name          | Empl
+ID   | FamilyCode | Medical   |               | Total    
+-------------------+-----------+------------+-----------+---------------+----------
+                   |           |            | *Type     | Amount        |          
+(cont.)            |           |            |           |               |          
+                   |           |            | 0106      | 0.00          |          
+Kopp,Rachael       | xxxxx1039 | 1          | 0023
+0106 | 745.01
+0.00   | $745.01  
+Lanier,Joseph      | xxxxx7171 | 2          | 0023
+0106 | 1,638.94
+0.00 | $1,638.94
+Longoria,Ryan      | xxxxx8636 | 1          | 0023
+0106 | 745.01
+0.00   | $745.01  
+Martin,Robert      | xxxxx8015 | 1          | 0023
+0106 | 745.01
+0.00   | $745.01  
+McElyea,Jason      | xxxxx3057 | 1          | 0023
+0106 | 745.01
+0.00   | $745.01  
+Michalowicz,Robert | xxxxx5495 | 4          | 0023
+0106 | 2,309.44
+0.00 | $2,309.44
+Nguyen,Nha         | xxxxx9979 | 1          | 0023
+0106 | 745.01
+0.00   | $745.01  
+Parish,Jason       | xxxxx0202 | 1          | 0023
+0106 | 745.01
+0.00   | $745.01  
+Pavini,Anthony     | xxxxx0727 | 1          | 0023
+0106 | 745.01
+0.00   | $745.01  
+Pelkey,Vicki       | xxxxx6035 | 1          | 0023
+0106 | 745.01
+0.00   | $745.01  
+Petersen,Zach      | xxxxx6366 | 1          | 0023
+0106 | 745.01
+0.00   | $745.01  
+Reed,John          | xxxxx9342 | 1          | 0023
+0106 | 745.01
+0.00   | $745.01  
+Richard,Jeremy     | xxxxx2285 | 1          | 0023
+0106 | 745.01
+0.00   | $745.01  
+Rojano,Eddy        | xxxxx7992 | 1          | 0023
+0106 | 745.01
+0.00   | $745.01  
+--------------------------------------------------------------------------------
+
+                                                                                    
+                      *SeePlanKey                                                   
+                                                                                    
+                                                                                    
+
+
+================================================================================
+PAGE 5
+================================================================================
+
+                                                                                    
+                                                                                    
+                                                                            
+                                                               
+                                                              
+                                                                    
+                                                    AccountNumber: 118631052        
+                                                                    
+                                                    
+     BLHACQUISITIONSCO., LLC                                                        
+                                                                                    
+                      CURRENT   INFORCE  CHARGESCONT.                               
+
+[TABLE 1]
+--------------------------------------------------------------------------------
+Empl
+Name                    | Empl
+ID   | FamilyCode | Medical   |             | Total     
+-----------------------------+-----------+------------+-----------+-------------+-----------
+                             |           |            | *Type     | Amount      |           
+(cont.)                      |           |            |           |             |           
+Rudrick,Jeffrey              | xxxxx0773 | 1          | 0023
+0106 | 745.01
+0.00 | $745.01   
+Stanley,Tiana                | xxxxx1629 | 1          | 0023
+0106 | 745.01
+0.00 | $745.01   
+Tabbi,Joseph                 | xxxxx8481 | 1          | 0023
+0106 | 745.01
+0.00 | $745.01   
+Triassi,Peter                | xxxxx5143 | 1          | 0023
+0106 | 745.01
+0.00 | $745.01   
+Wenstrom,Kim                 | xxxxx7285 | 1          | 0023
+0106 | 745.01
+0.00 | $745.01   
+1600OAMCH.S.A
+ACTIVESubtotal |           |            |           | $29,576.56  | $29,576.56
+2500OAMCHSA
+ACTIVE           |           |            |           |             |           
+Acosta,Stephanie             | xxxxx0012 | 1          | 0023
+0106 | 646.61
+0.00 | $646.61   
+Amaya,Kevin                  | xxxxx4155 | 1          | 0023
+0106 | 646.61
+0.00 | $646.61   
+Anderson,Brianna             | xxxxx7348 | 1          | 0023
+0106 | 646.61
+0.00 | $646.61   
+Casey,Natalie                | xxxxx4055 | 1          | 0023
+0106 | 646.61
+0.00 | $646.61   
+DeLacruz,Francisco           | xxxxx7573 | 1          | 0023
+0106 | 646.61
+0.00 | $646.61   
+Fleenor,Maurice              | xxxxx8696 | 1          | 0023
+0106 | 646.61
+0.00 | $646.61   
+Fyke,April                   | xxxxx4455 | 1          | 0023
+0106 | 646.61
+0.00 | $646.61   
+Jordan,Kenneth               | xxxxx9201 | 1          | 0023
+0106 | 646.61
+0.00 | $646.61   
+--------------------------------------------------------------------------------
+
+                                                                                    
+                      *SeePlanKey                                                   
+                                                                                    
+                                                                                    
+
+
+================================================================================
+PAGE 6
+================================================================================
+
+                                                                                    
+                                                                                    
+                                                  Pg.6of19                          
+                                                               
+                                                              
+                                                                    
+                                                    AccountNumber: 118631052        
+                                                                    
+                                                    
+     BLHACQUISITIONSCO., LLC                                                        
+                                                                                    
+                      CURRENT   INFORCE  CHARGESCONT.                               
+
+[TABLE 1]
+--------------------------------------------------------------------------------
+Empl
+Name         | Empl
+ID   | FamilyCode | Medical   |               | Total    
+------------------+-----------+------------+-----------+---------------+----------
+                  |           |            | *Type     | Amount        |          
+(cont.)           |           |            |           |               |          
+Lowe,Timothy      | xxxxx5134 | 3          | 0023
+0106 | 1,228.53
+0.00 | $1,228.53
+Maenle,Logan      | xxxxx5116 | 1          | 0023
+0106 | 646.61
+0.00   | $646.61  
+Pollard,Kimoni    | xxxxx0730 | 1          | 0023
+0106 | 646.61
+0.00   | $646.61  
+Quintana,Rachel   | xxxxx2365 | 1          | 0023
+0106 | 646.61
+0.00   | $646.61  
+Reid,William      | xxxxx0919 | 1          | 0023
+0106 | 646.61
+0.00   | $646.61  
+Roberts,Abigail   | xxxxx2924 | 1          | 0023
+0106 | 646.61
+0.00   | $646.61  
+Rodriguez,Teresa  | xxxxx2556 | 2          | 0023
+0106 | 1,422.53
+0.00 | $1,422.53
+Sherman,Ashley    | xxxxx0276 | 4          | 0023
+0106 | 2,004.44
+0.00 | $2,004.44
+Simmons,Johnathan | xxxxx8470 | 3          | 0023
+0106 | 1,228.53
+0.00 | $1,228.53
+Vautrot,Gabriel   | xxxxx2155 | 1          | 0023
+0106 | 646.61
+0.00   | $646.61  
+Welby,Ian         | xxxxx5845 | 1          | 0023
+0106 | 646.61
+0.00   | $646.61  
+White,Steven      | xxxxx1214 | 1          | 0023
+0106 | 646.61
+0.00   | $646.61  
+Williams,Destiny  | xxxxx7994 | 1          | 0023
+0106 | 646.61
+0.00   | $646.61  
+Wittig,April      | xxxxx2727 | 1          | 0023
+0106 | 646.61
+0.00   | $646.61  
+--------------------------------------------------------------------------------
+
+                                                                                    
+                      *SeePlanKey                                                   
+                                                                                    
+                                                                                    
+                                                                                    
+
+
+================================================================================
+PAGE 7
+================================================================================
+
+                                                                                    
+                                                                                    
+                                                  Pg.7of19                          
+                                                               
+                                                              
+                                                                    
+                                                    AccountNumber: 118631052        
+                                                                    
+                                                    
+     BLHACQUISITIONSCO., LLC                                                        
+                                                                                    
+                      CURRENT   INFORCE  CHARGESCONT.                               
+
+[TABLE 1]
+--------------------------------------------------------------------------------
+Empl
+Name                  | Empl
+ID   | FamilyCode | Medical   |               | Total     
+---------------------------+-----------+------------+-----------+---------------+-----------
+                           |           |            | *Type     | Amount        |           
+(cont.)                    |           |            |           |               |           
+2500OAMCHSA
+ACTIVESubtotal |           |            |           | $17,523.01    | $17,523.01
+2500OAMCHSA
+COBRA          |           |            |           |               |           
+May,Brendan                | xxxxx5364 | 1          | 0023
+0106 | 646.61
+0.00   | $646.61   
+2500OAMCHSA
+COBRASubtotal  |           |            |           | $646.61       | $646.61   
+4500OAMCH.S.A
+ACTIVE       |           |            |           |               |           
+Anderson,Stephanie         | xxxxx5821 | 4          | 0023
+0106 | 1,873.43
+0.00 | $1,873.43 
+Appollis,Kellan            | xxxxx6482 | 1          | 0023
+0106 | 616.31
+0.00   | $616.31   
+Barrientos,Maritza         | xxxxx8399 | 1          | 0023
+0106 | 616.31
+0.00   | $616.31   
+D'Silva,Gareth             | xxxxx0373 | 1          | 0023
+0106 | 616.31
+0.00   | $616.31   
+Davis,Jerris               | xxxxx6739 | 1          | 0023
+0106 | 616.31
+0.00   | $616.31   
+Dehart,Brian               | xxxxx4937 | 2          | 0023
+0106 | 1,355.84
+0.00 | $1,355.84 
+Dennis,Allen               | xxxxx5964 | 1          | 0023
+0106 | 616.31
+0.00   | $616.31   
+Flory,Alexis               | xxxxx0146 | 1          | 0023
+0106 | 616.31
+0.00   | $616.31   
+Garcia,Christian           | xxxxx5133 | 1          | 0023
+0106 | 616.31
+0.00   | $616.31   
+Goss,Alexandrea            | xxxxx9288 | 1          | 0023
+0106 | 616.31
+0.00   | $616.31   
+Granado,Anthony            | xxxxx3779 | 1          | 0023      | 616.31        | $616.31   
+--------------------------------------------------------------------------------
+
+                                                                                    
+                      *SeePlanKey                                                   
+                                                                                    
+                                                                                    
+
+
+================================================================================
+PAGE 8
+================================================================================
+
+                                                                                    
+                                                                                    
+                                                  Pg.8of19                          
+                                                               
+                                                              
+                                                                    
+                                                    AccountNumber: 118631052        
+                                                                    
+                                                    
+     BLHACQUISITIONSCO., LLC                                                        
+                                                                                    
+                      CURRENT   INFORCE  CHARGESCONT.                               
+
+[TABLE 1]
+--------------------------------------------------------------------------------
+Empl
+Name          | Empl
+ID   | FamilyCode | Medical   |               | Total    
+-------------------+-----------+------------+-----------+---------------+----------
+                   |           |            | *Type     | Amount        |          
+(cont.)            |           |            |           |               |          
+                   |           |            | 0106      | 0.00          |          
+Hosler,Jonathan    | xxxxx3472 | 1          | 0023
+0106 | 616.31
+0.00   | $616.31  
+Lascola,Max        | xxxxx2770 | 1          | 0023
+0106 | 616.31
+0.00   | $616.31  
+Lowder,Layton      | xxxxx0015 | 1          | 0023
+0106 | 616.31
+0.00   | $616.31  
+Morrison,Tiffany   | xxxxx3760 | 1          | 0023
+0106 | 616.31
+0.00   | $616.31  
+Mouton,Joanne      | xxxxx4530 | 1          | 0023
+0106 | 616.31
+0.00   | $616.31  
+Noernberg,Jillian  | xxxxx0917 | 3          | 0023
+0106 | 1,170.99
+0.00 | $1,170.99
+Noray,Chanelle     | xxxxx7174 | 2          | 0023
+0106 | 1,355.84
+0.00 | $1,355.84
+Pearson,Latifah    | xxxxx0505 | 1          | 0023
+0106 | 616.31
+0.00   | $616.31  
+Powell,Christopher | xxxxx0592 | 1          | 0023
+0106 | 616.31
+0.00   | $616.31  
+Sawyer,Lindsay     | xxxxx9274 | 1          | 0023
+0106 | 616.31
+0.00   | $616.31  
+Smith,Robert       | xxxxx5141 | 1          | 0023
+0106 | 616.31
+0.00   | $616.31  
+Sorbello,Mickelini | xxxxx8140 | 1          | 0023
+0106 | 616.31
+0.00   | $616.31  
+Stewart,Scarlet    | xxxxx8309 | 1          | 0023
+0106 | 616.31
+0.00   | $616.31  
+Stintsman,Blake    | xxxxx2570 | 1          | 0023
+0106 | 616.31
+0.00   | $616.31  
+--------------------------------------------------------------------------------
+
+                                                                                    
+                      *SeePlanKey                                                   
+                                                                                    
+                                                                                    
+
+
+================================================================================
+PAGE 9
+================================================================================
+
+                                                                                    
+                                                                                    
+                                                  Pg.9of19                          
+                                                               
+                                                              
+                                                                    
+                                                    AccountNumber: 118631052        
+                                                                    
+                                                    
+     BLHACQUISITIONSCO., LLC                                                        
+                                                                                    
+                      CURRENT   INFORCE  CHARGESCONT.                               
+
+[TABLE 1]
+--------------------------------------------------------------------------------
+Empl
+Name                    | Empl
+ID   | FamilyCode | Medical   |               | Total     
+-----------------------------+-----------+------------+-----------+---------------+-----------
+                             |           |            | *Type     | Amount        |           
+(cont.)                      |           |            |           |               |           
+Sweet,Melissa                | xxxxx0213 | 4          | 0023
+0106 | 1,873.43
+0.00 | $1,873.43 
+Urbay,David                  | xxxxx8171 | 1          | 0023
+0106 | 616.31
+0.00   | $616.31   
+Videsvasquez,Jhonatan        | xxxxx1078 | 1          | 0023
+0106 | 616.31
+0.00   | $616.31   
+Wilkerson,Ryan               | xxxxx0792 | 1          | 0023
+0106 | 616.31
+0.00   | $616.31   
+Williams,Alyssa              | xxxxx3922 | 1          | 0023
+0106 | 616.31
+0.00   | $616.31   
+4500OAMCH.S.A
+ACTIVESubtotal |           |            |           | $23,037.28    | $23,037.28
+5000SJOAMCACTIVE             |           |            |           |               |           
+Araya,Xaveria                | xxxxx1258 | 1          | 0023
+0106 | 536.75
+0.00   | $536.75   
+Beach,Scott                  | xxxxx4294 | 1          | 0023
+0106 | 536.75
+0.00   | $536.75   
+Black,Michelle               | xxxxx5093 | 1          | 0023
+0106 | 536.75
+0.00   | $536.75   
+Boyd,Zoe                     | xxxxx3607 | 1          | 0023
+0106 | 536.75
+0.00   | $536.75   
+Burks,Linda                  | xxxxx8439 | 1          | 0023
+0106 | 536.75
+0.00   | $536.75   
+Choe,Icksoo                  | xxxxx4990 | 1          | 0023
+0106 | 536.75
+0.00   | $536.75   
+Coimbra,Austin               | xxxxx8936 | 1          | 0023
+0106 | 536.75
+0.00   | $536.75   
+Covey,Thurman                | xxxxx9136 | 1          | 0023
+0106 | 536.75
+0.00   | $536.75   
+--------------------------------------------------------------------------------
+
+                                                                                    
+                      *SeePlanKey                                                   
+                                                                                    
+                                                                                    
+                                                                                    
+
+
+================================================================================
+PAGE 10
+================================================================================
+
+                                                                                    
+                                                                                    
+                                                  Pg.10of19                         
+                                                               
+                                                              
+                                                                    
+                                                    AccountNumber: 118631052        
+                                                                    
+                                                    
+     BLHACQUISITIONSCO., LLC                                                        
+                                                                                    
+                      CURRENT   INFORCE  CHARGESCONT.                               
+
+[TABLE 1]
+--------------------------------------------------------------------------------
+Empl
+Name          | Empl
+ID   | FamilyCode | Medical   |               | Total    
+-------------------+-----------+------------+-----------+---------------+----------
+                   |           |            | *Type     | Amount        |          
+(cont.)            |           |            |           |               |          
+Culbert,Stephen    | xxxxx7903 | 4          | 0023
+0106 | 1,422.53
+0.00 | $1,422.53
+Culp,Benjamin      | xxxxx2160 | 1          | 0023
+0106 | 536.75
+0.00   | $536.75  
+Dibble,Elizabeth   | xxxxx7449 | 1          | 0023
+0106 | 536.75
+0.00   | $536.75  
+Doherty,Alisha     | xxxxx3542 | 1          | 0023
+0106 | 536.75
+0.00   | $536.75  
+Duff,Ryan          | xxxxx5707 | 1          | 0023
+0106 | 536.75
+0.00   | $536.75  
+Gamble,Victoria    | xxxxx8858 | 1          | 0023
+0106 | 536.75
+0.00   | $536.75  
+Gerard,Nicholas    | xxxxx2387 | 1          | 0023
+0106 | 536.75
+0.00   | $536.75  
+Gerwe,Rachel       | xxxxx6835 | 3          | 0023
+0106 | 1,355.84
+0.00 | $1,355.84
+Gonzales,Erasmo    | xxxxx7430 | 1          | 0023
+0106 | 536.75
+0.00   | $536.75  
+Gonzales,Stacy     | xxxxx4842 | 1          | 0023
+0106 | 536.75
+0.00   | $536.75  
+Hartlep,Steve      | xxxxx6445 | 1          | 0023
+0106 | 536.75
+0.00   | $536.75  
+Hollins,Arika      | xxxxx4878 | 1          | 0023
+0106 | 536.75
+0.00   | $536.75  
+Jackson,Christiane | xxxxx3169 | 3          | 0023
+0106 | 1,355.84
+0.00 | $1,355.84
+Johnson,Christian  | xxxxx1420 | 1          | 0023
+0106 | 536.75
+0.00   | $536.75  
+Jones,Kristen      | xxxxx6288 | 1          | 0023      | 536.75        | $536.75  
+--------------------------------------------------------------------------------
+
+                                                                                    
+                      *SeePlanKey                                                   
+                                                                                    
+                                                                                    
+
+
+================================================================================
+PAGE 11
+================================================================================
+
+                                                                                    
+                                                                                    
+                                                  Pg.11of19                         
+                                                               
+                                                              
+                                                                    
+                                                    AccountNumber: 118631052        
+                                                                    
+                                                    
+     BLHACQUISITIONSCO., LLC                                                        
+                                                                                    
+                      CURRENT   INFORCE  CHARGESCONT.                               
+
+[TABLE 1]
+--------------------------------------------------------------------------------
+Empl
+Name           | Empl
+ID   | FamilyCode | Medical   |               | Total    
+--------------------+-----------+------------+-----------+---------------+----------
+                    |           |            | *Type     | Amount        |          
+(cont.)             |           |            |           |               |          
+                    |           |            | 0106      | 0.00          |          
+Jordan,Stephanie    | xxxxx5000 | 1          | 0023
+0106 | 536.75
+0.00   | $536.75  
+Jurgens,Jessica     | xxxxx4004 | 1          | 0023
+0106 | 536.75
+0.00   | $536.75  
+Khosrozadeh,Natalie | xxxxx3206 | 1          | 0023
+0106 | 536.75
+0.00   | $536.75  
+Krooss,Destiny      | xxxxx8065 | 1          | 0023
+0106 | 536.75
+0.00   | $536.75  
+Kuykendall,Justin   | xxxxx2312 | 1          | 0023
+0106 | 536.75
+0.00   | $536.75  
+Loud,Michelle       | xxxxx9555 | 1          | 0023
+0106 | 536.75
+0.00   | $536.75  
+Marotti,Jessica     | xxxxx5283 | 1          | 0023
+0106 | 536.75
+0.00   | $536.75  
+McCoyIV,William     | xxxxx2791 | 1          | 0023
+0106 | 536.75
+0.00   | $536.75  
+Mrlik,Michael       | xxxxx6897 | 2          | 0023
+0106 | 1,180.85
+0.00 | $1,180.85
+Murphy,John         | xxxxx2830 | 2          | 0023
+0106 | 1,180.85
+0.00 | $1,180.85
+O'Dell,Emily        | xxxxx5190 | 1          | 0023
+0106 | 536.75
+0.00   | $536.75  
+Parker,Patrice      | xxxxx4769 | 1          | 0023
+0106 | 536.75
+0.00   | $536.75  
+Renesto,Patricia    | xxxxx8752 | 1          | 0023
+0106 | 536.75
+0.00   | $536.75  
+Richardson,Jeremiah | xxxxx6042 | 1          | 0023
+0106 | 536.75
+0.00   | $536.75  
+--------------------------------------------------------------------------------
+
+                                                                                    
+                      *SeePlanKey                                                   
+                                                                                    
+                                                                                    
+
+
+================================================================================
+PAGE 12
+================================================================================
+
+                                                                                    
+                                                                                    
+                                                  Pg.12of19                         
+                                                               
+                                                              
+                                                                    
+                                                    AccountNumber: 118631052        
+                                                                    
+                                                    
+     BLHACQUISITIONSCO., LLC                                                        
+                                                                                    
+                      CURRENT   INFORCE  CHARGESCONT.                               
+
+[TABLE 1]
+--------------------------------------------------------------------------------
+Empl
+Name         | Empl
+ID   | FamilyCode | Medical   |               | Total    
+------------------+-----------+------------+-----------+---------------+----------
+                  |           |            | *Type     | Amount        |          
+(cont.)           |           |            |           |               |          
+Scialdone,Lorie   | xxxxx3842 | 2          | 0023
+0106 | 1,180.85
+0.00 | $1,180.85
+Selman,James      | xxxxx3621 | 4          | 0023
+0106 | 1,422.53
+0.00 | $1,422.53
+Skinner,Robert    | xxxxx8804 | 1          | 0023
+0106 | 536.75
+0.00   | $536.75  
+Smith,Heather     | xxxxx3706 | 3          | 0023
+0106 | 1,355.84
+0.00 | $1,355.84
+Spain,Netrecia    | xxxxx8179 | 1          | 0023
+0106 | 536.75
+0.00   | $536.75  
+Stofer,Andrea     | xxxxx3504 | 1          | 0023
+0106 | 536.75
+0.00   | $536.75  
+Sturtevant,Bree   | xxxxx6467 | 1          | 0023
+0106 | 536.75
+0.00   | $536.75  
+Tashman,David     | xxxxx4004 | 2          | 0023
+0106 | 1,180.85
+0.00 | $1,180.85
+Tipay,Mary        | xxxxx7423 | 1          | 0023
+0106 | 536.75
+0.00   | $536.75  
+Valentine,Eugenie | xxxxx2223 | 4          | 0023
+0106 | 1,422.53
+0.00 | $1,422.53
+Vaughan,Erwin     | xxxxx7970 | 1          | 0023
+0106 | 536.75
+0.00   | $536.75  
+Wheeler,Thomas    | xxxxx8662 | 3          | 0023
+0106 | 1,355.84
+0.00 | $1,355.84
+Williams,Richard  | xxxxx1787 | 1          | 0023
+0106 | 536.75
+0.00   | $536.75  
+Wilson,Jason      | xxxxx4282 | 1          | 0023
+0106 | 536.75
+0.00   | $536.75  
+Wright,Brian      | xxxxx3688 | 4          | 0023      | 1,422.53      | $1,422.53
+--------------------------------------------------------------------------------
+
+                                                                                    
+                      *SeePlanKey                                                   
+                                                                                    
+                                                                                    
+
+
+================================================================================
+PAGE 13
+================================================================================
+
+                                                                                    
+                                                                                    
+                                                  Pg.13of19                         
+                                                               
+                                                              
+                                                                    
+                                                    AccountNumber: 118631052        
+                                                                    
+                                                    
+     BLHACQUISITIONSCO., LLC                                                        
+                                                                                    
+                      CURRENT   INFORCE  CHARGESCONT.                               
+
+[TABLE 1]
+--------------------------------------------------------------------------------
+Empl
+Name                   | Empl
+ID   | FamilyCode | Medical   |               | Total     
+----------------------------+-----------+------------+-----------+---------------+-----------
+                            |           |            | *Type     | Amount        |           
+(cont.)                     |           |            |           |               |           
+                            |           |            | 0106      | 0.00          |           
+Zuber,Elizabeth             | xxxxx0513 | 1          | 0023
+0106 | 536.75
+0.00   | $536.75   
+5000SJOAMCACTIVE
+Subtotal   |           |            |           | $37,843.63    | $37,843.63
+1600PPOH.S.A
+ACTIVE         |           |            |           |               |           
+Haumesser,Jeff              | xxxxx2816 | 1          | 0024
+0106 | 745.01
+0.00   | $745.01   
+Lewis,Renita                | xxxxx9113 | 1          | 0024
+0106 | 745.01
+0.00   | $745.01   
+Queensen,Lisa               | xxxxx1817 | 1          | 0024
+0106 | 745.01
+0.00   | $745.01   
+1600PPOH.S.AACTIVE
+Subtotal |           |            |           | $2,235.03     | $2,235.03 
+2500PPOH.S.A
+ACTIVE         |           |            |           |               |           
+Thornburg,Kayla             | xxxxx9268 | 1          | 0024
+0106 | 646.61
+0.00   | $646.61   
+2500PPOH.S.AACTIVE
+Subtotal |           |            |           | $646.61       | $646.61   
+4500PPOH.S.A
+ACTIVE         |           |            |           |               |           
+Nifong,Shelby               | xxxxx2529 | 1          | 0024
+0106 | 616.31
+0.00   | $616.31   
+Utrera,Maria                | xxxxx3451 | 1          | 0024
+0106 | 616.31
+0.00   | $616.31   
+4500PPOH.S.AACTIVE
+Subtotal |           |            |           | $1,232.62     | $1,232.62 
+5000SJPPOACTIVE             |           |            |           |               |           
+Culpepper,Catherine         | xxxxx9290 | 2          | 0024
+0106 | 1,180.85
+0.00 | $1,180.85 
+--------------------------------------------------------------------------------
+
+                                                                                    
+                      *SeePlanKey                                                   
+                                                                                    
+                                                                                    
+                                                                                    
+
+
+================================================================================
+PAGE 14
+================================================================================
+
+                                                                                    
+                                                                                    
+                                                  Pg.14of19                         
+                                                               
+                                                              
+                                                                    
+                                                    AccountNumber: 118631052        
+                                                                    
+                                                    
+     BLHACQUISITIONSCO., LLC                                                        
+                                                                                    
+                      CURRENT   INFORCE  CHARGESCONT.                               
+
+[TABLE 1]
+--------------------------------------------------------------------------------
+Empl
+Name                 | Empl
+ID   | FamilyCode | Medical     |             | Total      
+--------------------------+-----------+------------+-------------+-------------+------------
+                          |           |            | *Type       | Amount      |            
+(cont.)                   |           |            |             |             |            
+Frisby,Nathan             | xxxxx0645 | 1          | 0024
+0106   | 536.75
+0.00 | $536.75    
+Gleason,Lynnette          | xxxxx6310 | 1          | 0024
+0106   | 536.75
+0.00 | $536.75    
+Hagins,Tahshon            | xxxxx1512 | 1          | 0024
+0106   | 536.75
+0.00 | $536.75    
+Yeager,Bayleigh           | xxxxx7770 | 1          | 0024
+0106   | 536.75
+0.00 | $536.75    
+5000SJPPOACTIVE
+Subtotal  |           |            |             | $3,327.85   | $3,327.85  
+TotalDueforaboveCoverages |           |            | $116,069.20 |             | $116,069.20
+--------------------------------------------------------------------------------
+
+                                                                                    
+                      *SeePlanKey                                                   
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+
+
+================================================================================
+PAGE 15
+================================================================================
+
+                                                                                    
+                                                                                    
+                                                  Pg.15of19                         
+                                                               
+                                                              
+                                                                    
+                                                             
+                                                                    
+                                                    
+     BLHACQUISITIONSCO., LLC                                                        
+                                                                                    
+                RETROACTIVITY   CHARGES/CREDITS                                     
+
+[TABLE 1]
+--------------------------------------------------------------------------------
+Empl
+Name          | Empl
+ID   | *
+T
+r
+a
+n
+s | Eff
+Date | Mths
+Imp | Medical   |                 | Total      
+-------------------+-----------+-------------+----------+----------+-----------+-----------------+------------
+                   |           |             |          |          | *Type     | Amount          |            
+Benfield,Sean      | xxxxx9315 | N           | 01/01/25 | 1        | 0023
+0106 | 1,415.46
+0.00   | $1,415.46  
+Calzada,Jose       | xxxxx6525 | N           | 01/01/25 | 1        | 0023
+0106 | 745.01
+0.00     | $745.01    
+Frierson,Roberta   | xxxxx7493 | C           | 01/01/25 | 1        | 0023
+0106 | (893.93)
+0.00   | $(893.93)  
+Gerwe,Rachel       | xxxxx6835 | T           | 01/01/25 | 1        | 0023
+0106 | (1,415.46)
+0.00 | $(1,415.46)
+Gerwe,Rachel       | xxxxx6835 | C           | 01/01/25 | 1        | 0023
+0106 | 1,355.84
+0.00   | $1,355.84  
+Lanier,Joseph      | xxxxx7171 | N           | 01/01/25 | 1        | 0023
+0106 | 1,638.94
+0.00   | $1,638.94  
+Loud,Michelle      | xxxxx9555 | T           | 01/01/25 | 1        | 0023
+0106 | (745.01)
+0.00   | $(745.01)  
+Loud,Michelle      | xxxxx9555 | C           | 01/01/25 | 1        | 0023
+0106 | 536.75
+0.00     | $536.75    
+Michalowicz,Robert | xxxxx5495 | N           | 01/01/25 | 1        | 0023
+0106 | 2,309.44
+0.00   | $2,309.44  
+Parish,Jason       | xxxxx0202 | T           | 01/01/25 | 1        | 0023
+0106 | 98.40
+0.00      | $98.40     
+Pelkey,Vicki       | xxxxx6035 | T           | 01/01/25 | 1        | 0023
+0106 | 208.26
+0.00     | $208.26    
+Sawyer,Lindsay     | xxxxx9274 | T           | 01/01/25 | 1        | 0023
+0106 | (128.70)
+0.00   | $(128.70)  
+Simmons,Johnathan  | xxxxx8470 | T           | 01/01/25 | 1        | 0023
+0106 | (1,415.46)
+0.00 | $(1,415.46)
+Simmons,Johnathan  | xxxxx8470 | C           | 01/01/25 | 1        | 0023
+0106 | 1,228.53
+0.00   | $1,228.53  
+Tabbi,Joseph       | xxxxx8481 | T           | 01/01/25 | 1        | 0023
+0106 | 98.40
+0.00      | $98.40     
+--------------------------------------------------------------------------------
+
+                                                                                    
+                *SeePlanKey                                                         
+                                                                                    
+                                                                                    
+
+
+================================================================================
+PAGE 16
+================================================================================
+
+                                                                                    
+                                                                                    
+                                                  Pg.16of19                         
+                                                               
+                                                              
+                                                                    
+                                                             
+                                                                    
+                                                    
+     BLHACQUISITIONSCO., LLC                                                        
+                                                                                    
+                RETROACTIVITY   CHARGES/CREDITSCONT.                                
+
+[TABLE 1]
+--------------------------------------------------------------------------------
+Empl
+Name          | Empl
+ID   | *
+T
+r
+a
+n
+s | Eff
+Date | Mths
+Imp | Medical   |                 | Total      
+-------------------+-----------+-------------+----------+----------+-----------+-----------------+------------
+                   |           |             |          |          | *Type     | Amount          |            
+Acosta,Stephanie   | xxxxx0012 | N           | 01/01/25 | 1        | 0023
+0106 | 646.61
+0.00     | $646.61    
+Amaya,Kevin        | xxxxx4155 | N           | 01/01/25 | 1        | 0023
+0106 | 646.61
+0.00     | $646.61    
+Anderson,Stephanie | xxxxx5821 | T           | 01/01/25 | 1        | 0023
+0106 | 450.90
+0.00     | $450.90    
+Armendariz,Armando | xxxxx0403 | T           | 11/30/24 | 1        | 0023
+0106 | (1,032.31)
+0.00 | $(1,032.31)
+Casey,Natalie      | xxxxx4055 | N           | 01/01/25 | 1        | 0023
+0106 | 646.61
+0.00     | $646.61    
+Choe,Icksoo        | xxxxx4990 | T           | 01/01/25 | 1        | 0023
+0106 | (109.86)
+0.00   | $(109.86)  
+Maenle,Logan       | xxxxx5116 | N           | 01/01/25 | 1        | 0023
+0106 | 646.61
+0.00     | $646.61    
+Noernberg,Jillian  | xxxxx0917 | T           | 01/01/25 | 1        | 0023
+0106 | (57.54)
+0.00    | $(57.54)   
+Pollard,Kimoni     | xxxxx0730 | N           | 01/01/25 | 1        | 0023
+0106 | 646.61
+0.00     | $646.61    
+Rodriguez,Teresa   | xxxxx2556 | N           | 01/01/25 | 1        | 0023
+0106 | 1,422.53
+0.00   | $1,422.53  
+Sneddon,Matthew    | xxxxx9341 | T           | 12/31/24 | 1        | 0023
+0106 | (646.61)
+0.00   | $(646.61)  
+Vautrot,Gabriel    | xxxxx2155 | N           | 01/01/25 | 1        | 0023
+0106 | 646.61
+0.00     | $646.61    
+White,Steven       | xxxxx1214 | T           | 01/01/25 | 1        | 0023
+0106 | (616.31)
+0.00   | $(616.31)  
+White,Steven       | xxxxx1214 | C           | 01/01/25 | 1        | 0023
+0106 | 646.61
+0.00     | $646.61    
+Arredondo,Luis     | xxxxx8463 | T           | 12/31/24 | 1        | 0023
+0106 | (616.31)
+0.00   | $(616.31)  
+--------------------------------------------------------------------------------
+
+                                                                                    
+                *SeePlanKey                                                         
+                                                                                    
+                                                                                    
+
+
+================================================================================
+PAGE 17
+================================================================================
+
+                                                                                    
+                                                                                    
+                                                  Pg.17of19                         
+                                                               
+                                                              
+                                                                    
+                                                             
+                                                                    
+                                                    
+     BLHACQUISITIONSCO., LLC                                                        
+                                                                                    
+                RETROACTIVITY   CHARGES/CREDITSCONT.                                
+
+[TABLE 1]
+--------------------------------------------------------------------------------
+Empl
+Name             | Empl
+ID   | *
+T
+r
+a
+n
+s | Eff
+Date | Mths
+Imp | Medical   |               | Total    
+----------------------+-----------+-------------+----------+----------+-----------+---------------+----------
+                      |           |             |          |          | *Type     | Amount        |          
+(cont.)               |           |             |          |          |           |               |          
+Dennis,Allen          | xxxxx5964 | N           | 01/01/25 | 1        | 0023
+0106 | 616.31
+0.00   | $616.31  
+Granado,Anthony       | xxxxx3779 | N           | 01/01/25 | 1        | 0023
+0106 | 616.31
+0.00   | $616.31  
+Hathaway,Andrew       | xxxxx1286 | T           | 12/31/24 | 1        | 0023
+0106 | (616.31)
+0.00 | $(616.31)
+Morrison,Tiffany      | xxxxx3760 | N           | 01/01/25 | 1        | 0023
+0106 | 616.31
+0.00   | $616.31  
+Noray,Chanelle        | xxxxx7174 | N           | 01/01/25 | 1        | 0023
+0106 | 1,355.84
+0.00 | $1,355.84
+Videsvasquez,Jhonatan | xxxxx1078 | N           | 01/01/25 | 1        | 0023
+0106 | 616.31
+0.00   | $616.31  
+Araya,Xaveria         | xxxxx1258 | N           | 01/01/25 | 1        | 0023
+0106 | 536.75
+0.00   | $536.75  
+Beach,Scott           | xxxxx4294 | N           | 01/01/25 | 1        | 0023
+0106 | 536.75
+0.00   | $536.75  
+Burks,Linda           | xxxxx8439 | N           | 01/01/25 | 1        | 0023
+0106 | 536.75
+0.00   | $536.75  
+Coimbra,Austin        | xxxxx8936 | N           | 01/01/25 | 1        | 0023
+0106 | 536.75
+0.00   | $536.75  
+Garcia,Steven         | xxxxx4814 | T           | 12/31/24 | 1        | 0023
+0106 | (536.75)
+0.00 | $(536.75)
+Gerard,Nicholas       | xxxxx2387 | N           | 01/01/25 | 1        | 0023
+0106 | 536.75
+0.00   | $536.75  
+Gonzales,Erasmo       | xxxxx7430 | N           | 01/01/25 | 1        | 0023
+0106 | 536.75
+0.00   | $536.75  
+Hartlep,Steve         | xxxxx6445 | N           | 01/01/25 | 1        | 0023
+0106 | 536.75
+0.00   | $536.75  
+Jurgens,Jessica       | xxxxx4004 | N           | 01/01/25 | 1        | 0023      | 536.75        | $536.75  
+--------------------------------------------------------------------------------
+
+                                                                                    
+                *SeePlanKey                                                         
+                                                                                    
+                                                                                    
+
+
+================================================================================
+PAGE 18
+================================================================================
+
+                                                                                    
+                                                                                    
+                                                  Pg.18of19                         
+                                                               
+                                                              
+                                                                    
+                                                             
+                                                                    
+                                                    
+     BLHACQUISITIONSCO., LLC                                                        
+                                                                                    
+                RETROACTIVITY   CHARGES/CREDITSCONT.                                
+
+[TABLE 1]
+--------------------------------------------------------------------------------
+Empl
+Name                 | Empl
+ID   | *
+T
+r
+a
+n
+s | Eff
+Date | Mths
+Imp | Medical    |                 | Total      
+--------------------------+-----------+-------------+----------+----------+------------+-----------------+------------
+                          |           |             |          |          | *Type      | Amount          |            
+(cont.)                   |           |             |          |          |            |                 |            
+                          |           |             |          |          | 0106       | 0.00            |            
+Roberson,Dalton           | xxxxx2077 | T           | 12/31/24 | 1        | 0023
+0106  | (1,180.85)
+0.00 | $(1,180.85)
+Spain,Netrecia            | xxxxx8179 | N           | 01/01/25 | 1        | 0023
+0106  | 536.75
+0.00     | $536.75    
+Trahan,Rachel             | xxxxx4616 | T           | 12/31/24 | 1        | 0023
+0106  | (536.75)
+0.00   | $(536.75)  
+Valentine,Eugenie         | xxxxx2223 | N           | 01/01/25 | 1        | 0023
+0106  | 1,422.53
+0.00   | $1,422.53  
+Williams,Richard          | xxxxx1787 | N           | 01/01/25 | 1        | 0023
+0106  | 536.75
+0.00     | $536.75    
+Zuber,Elizabeth           | xxxxx0513 | N           | 01/01/25 | 1        | 0023
+0106  | 536.75
+0.00     | $536.75    
+Culpepper,Catherine       | xxxxx9290 | T           | 01/01/25 | 1        | 0024
+0106  | (241.68)
+0.00   | $(241.68)  
+TotalDueforaboveCoverages |           |             |          |          | $16,392.75 |                 | $16,392.75 
+--------------------------------------------------------------------------------
+
+                                                                                    
+                *SeePlanKey                                                         
+
+[TABLE 2]
+--------------------------------------------------------------------------------
+CurrentAdmin/OtherAdjustments | Date | Amount | Remarks
+------------------------------+------+--------+--------
+TotalAdmin/OtherAdjustments   |      | $0.00  |        
+--------------------------------------------------------------------------------
+
+[TABLE 3]
+--------------------------------------------------------------------------------
+TotalRetroactivity/Admin/OtherAdjustments | $16,392.75
+------------------------------------------+-----------
+--------------------------------------------------------------------------------
+
+
+
+================================================================================
+PAGE 19
+================================================================================
+
+                                                                                                             
+                                                                                                             
+                                                                               Pg.19of19                     
+                                                                                                             
+                                                                                                             
+                                                                                                             
+                                                                                        
+                         BLHACQUISITIONSCO., LLC                                                             
+                                                                                       
+                                                                                             
+                                                                                      
+                                                                                             
+                                                                                  
+   BENEFIT  SNAPSHOT   CURRENT   MEMBERSHIP                                                                  
+
+[TABLE 1]
+--------------------------------------------------------------------------------
+                      |           |                                                                     | RecordedEmpl/Volume |                                                                                                 
+----------------------+-----------+---------------------------------------------------------------------+---------------------+-------------------------------------------------------------------------------------------------
+Product               | *PlanType | Description                                                         | Empl/
+Volume        | Amount                                                                                          
+Medical
+Medical
+Total | 023
+024   | EE
+EE+Spouse
+EE+Child(ren)
+EE+Family
+Subtotal
+EE
+EE+Spouse
+Subtotal | 115
+10
+7
+8
+10
+1     | $72,050.39
+$13,774.43
+$9,051.41
+$13,750.86
+$108,627.09
+$6,261.26
+$1,180.85
+$7,442.11
+$116,069.20
+--------------------------------------------------------------------------------
+
+   *SeePlanKey                                                                                               
+                                                                                                             
+   ACTIVE CONTROL-SUFFIX-ACCOUNTS (CSA)REFLECTED IN THIS INVOICE                                             
+                                                                                                             
+   0193711-010-00001AND00101;0193711-011-00001AND00101;0193711-012-00001AND00101;0193711-013-00001AND00101;0193711-014-00001
+   0193711-015-00001AND00101;0193711-016-00001AND00101;0193711-017-00001AND00101                             
+                                                                                                             
+                                                                                                             
+                                                                                                             
+                                                                                                             
+                                                                                                             
+                                                                                                             
+                                                                                                             
+                                                                                                             
+                                                                                                             
+                                                                                                             
+                                                                                                             
+                                                                                                             
+                                                                                                             
+

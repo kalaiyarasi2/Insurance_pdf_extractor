@@ -1,0 +1,16 @@
+{
+  "extraction_metadata": {
+    "extraction_date": "2026-02-12T12:52:28.142524",
+    "method": "pymupdf-tesseract-enhanced-chunked",
+    "num_pages": 19,
+    "source_file": "Aetna_Bar_louie_BLH_Feb-25_Inv.pdf",
+    "session_id": "20260212_125210_8475_Aetna_Bar_louie_BLH_",
+    "target_claim": null
+  },
+  "report_date": null,
+  "policy_number": null,
+  "insured_name": null,
+  "policy_period": null,
+  "total_claims": 0,
+  "claims_validation_summary": []
+}
