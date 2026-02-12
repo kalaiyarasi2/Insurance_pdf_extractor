@@ -1,0 +1,86 @@
+{
+  "session_id": "20260212_021430_6131_State_Fund_Online_-_",
+  "session_dir": "outputs\\extraction_20260212_021430_6131_State_Fund_Online_-_",
+  "source_pdf": "C:\\Users\\INTERN\\AppData\\Local\\Temp\\tmp1pc_2fpk\\State_Fund_Online_-_22-23_1.pdf",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "\n================================================================================\nPAGE 1\n================================================================================\n\n                                                                                    \n                                                                                    \n                                                                                    \n                                                                                    \n                                                                                    \n                                                                                    \n                                                                                    \n                                                                                    \n                                                                                    \n     Loss Analysis Report                                                           \n                                    Inception Date 08-11-2022 District Office SC -LOS ANGELES\n     9322650-2022                                                                   \n                                   Expiration Date 08-11-2023 Cancellation Code Active\n     0 & L MAINTENANCE SERVICE, INC                                                 \n     14521 ARMINTA ST, PANORAMA CITY, CA 91402 A.R.D     Quote ID 802168451         \n                                 -------~-----___.,,--\"\"\"'-Q'.,_.u.,_.o.,_.t,e.,_.T,_,4_\"\"-~e P_A_S_-----------~\n     ~ Ad hoc report produced on 07-29-2025                                         \n           Brokerage                                                                \n           Name lnterwest Ins Svcs Lie                                              \n          Address 8950 Cal Center Dr Bldg 3 2nd Fl Sacramento, CA Phone Number (916) 488-3100\n               95826                                                                \n           Totals                                                                   \n     ~ Both Open and Closed Claims, Both Disability and Non-disability Claims for year 2022\n     Claims           Costs                                                         \n           Open  1         Paid Compensation $34,156                                \n          Closed 2             P.aid Medical $152,692             P.olicy Year 2022 \n           Total    3           Tota.I Paid $186,848                                \n                                                               Estimated Annual $59,019\n         Disability 3   Estimated Compensation $34,156     Current Experierl~ 344.0%\n       Non-Disability 0     Estimated Medical $155,492         Governin Class 9008 1\n          Litigated 3   Total Estimated/Incurred $189,648                           \n           Claims                                                                   \n     Claim ID Claimant Status Injury Date Paid Comp Paid Medical Est. Comp Est. Medical Accident Description\n     06882022 Minero Diaz reclosed 05-18-2023 $0 $91,243 $0 $91,243 the employee was using the scr; sprain;\n       SA  Manuel     disability                             shoulder( s) ; struck by fall/fly object\n                      litig case has                                                \n                      been finalized                                                \n     06900294 Cantu   reopen  02-23-2023 $0  $29,100 $0  $31,900 after experiencing a hostile w; job stress;\n       SK  Sergio     disability                             mentl stress; cumulative (all other)\n                      litig case has                                                \n                      been finalized                                                \n     06856842 Casillas Salas reclosed 01-10-2023 $34,156 $32,349 $34,156 $32,349 employee was using a buffer ma; specific\n       SK  Josefina   disability                             noc; buttocks; fall/slip on misc.\n                      litig case has                                                \n                      been finalized                                                \n                                                                                    \n                                                                                    \n                                                                                    \n                                                                                    \n                                                                                    \n                                                                                    \n                                                                                    \n                                                                                    \n                                                                                    \n                                                                                    \n                                                                                    \n                                                                                    \n                                                                                    \n                                \n                                                                                    \n",
+      "extraction_method": "pdfplumber",
+      "is_scanned": false,
+      "confidence": 1.0
+    }
+  ],
+  "combined_text": "================================================================================\nPDF DOCUMENT EXTRACTION (pdfplumber)\n================================================================================\n\n\n================================================================================\nPAGE 1\n================================================================================\n\n                                                                                    \n                                                                                    \n                                                                                    \n                                                                                    \n                                                                                    \n                                                                                    \n                                                                                    \n                                                                                    \n                                                                                    \n     Loss Analysis Report                                                           \n                                    Inception Date 08-11-2022 District Office SC -LOS ANGELES\n     9322650-2022                                                                   \n                                   Expiration Date 08-11-2023 Cancellation Code Active\n     0 & L MAINTENANCE SERVICE, INC                                                 \n     14521 ARMINTA ST, PANORAMA CITY, CA 91402 A.R.D     Quote ID 802168451         \n                                 -------~-----___.,,--\"\"\"'-Q'.,_.u.,_.o.,_.t,e.,_.T,_,4_\"\"-~e P_A_S_-----------~\n     ~ Ad hoc report produced on 07-29-2025                                         \n           Brokerage                                                                \n           Name lnterwest Ins Svcs Lie                                              \n          Address 8950 Cal Center Dr Bldg 3 2nd Fl Sacramento, CA Phone Number (916) 488-3100\n               95826                                                                \n           Totals                                                                   \n     ~ Both Open and Closed Claims, Both Disability and Non-disability Claims for year 2022\n     Claims           Costs                                                         \n           Open  1         Paid Compensation $34,156                                \n          Closed 2             P.aid Medical $152,692             P.olicy Year 2022 \n           Total    3           Tota.I Paid $186,848                                \n                                                               Estimated Annual $59,019\n         Disability 3   Estimated Compensation $34,156     Current Experierl~ 344.0%\n       Non-Disability 0     Estimated Medical $155,492         Governin Class 9008 1\n          Litigated 3   Total Estimated/Incurred $189,648                           \n           Claims                                                                   \n     Claim ID Claimant Status Injury Date Paid Comp Paid Medical Est. Comp Est. Medical Accident Description\n     06882022 Minero Diaz reclosed 05-18-2023 $0 $91,243 $0 $91,243 the employee was using the scr; sprain;\n       SA  Manuel     disability                             shoulder( s) ; struck by fall/fly object\n                      litig case has                                                \n                      been finalized                                                \n     06900294 Cantu   reopen  02-23-2023 $0  $29,100 $0  $31,900 after experiencing a hostile w; job stress;\n       SK  Sergio     disability                             mentl stress; cumulative (all other)\n                      litig case has                                                \n                      been finalized                                                \n     06856842 Casillas Salas reclosed 01-10-2023 $34,156 $32,349 $34,156 $32,349 employee was using a buffer ma; specific\n       SK  Josefina   disability                             noc; buttocks; fall/slip on misc.\n                      litig case has                                                \n                      been finalized                                                \n                                                                                    \n                                                                                    \n                                                                                    \n                                                                                    \n                                                                                    \n                                                                                    \n                                                                                    \n                                                                                    \n                                                                                    \n                                                                                    \n                                                                                    \n                                                                                    \n                                                                                    \n                                \n                                                                                    \n\n",
+  "extracted_schema": {
+    "claims": [
+      {
+        "employee_name": "Diaz, Minero",
+        "claim_number": "06882022",
+        "injury_date_time": "2023-05-18",
+        "claim_year": 2023,
+        "status": "Reopened",
+        "injury_description": "the employee was using the scr; sprain; shoulder(s); struck by fall/fly object",
+        "body_part": "shoulder(s)",
+        "injury_type": "COMP",
+        "claim_class": null,
+        "medical_paid": 91243.0,
+        "medical_reserve": 91243.0,
+        "indemnity_paid": 0.0,
+        "indemnity_reserve": 0.0,
+        "expense_paid": 0.0,
+        "expense_reserve": 0.0,
+        "recovery": 0.0,
+        "deductible": 0.0,
+        "total_incurred": 182486.0
+      },
+      {
+        "employee_name": "Cantu, Sergio",
+        "claim_number": "06900294",
+        "injury_date_time": "2023-02-23",
+        "claim_year": 2023,
+        "status": "Reopened",
+        "injury_description": "after experiencing a hostile w; job stress; mentl stress; cumulative (all other)",
+        "body_part": null,
+        "injury_type": "COMP",
+        "claim_class": null,
+        "medical_paid": 29100.0,
+        "medical_reserve": 31900.0,
+        "indemnity_paid": 0.0,
+        "indemnity_reserve": 0.0,
+        "expense_paid": 0.0,
+        "expense_reserve": 0.0,
+        "recovery": 0.0,
+        "deductible": 0.0,
+        "total_incurred": 61000.0
+      },
+      {
+        "employee_name": "Salas, Josefina Casillas",
+        "claim_number": "06856842",
+        "injury_date_time": "2023-01-10",
+        "claim_year": 2023,
+        "status": "Reopened",
+        "injury_description": "employee was using a buffer ma; specific noc; buttocks; fall/slip on misc.",
+        "body_part": "buttocks",
+        "injury_type": "COMP",
+        "claim_class": null,
+        "medical_paid": 32349.0,
+        "medical_reserve": 32349.0,
+        "indemnity_paid": 34156.0,
+        "indemnity_reserve": 34156.0,
+        "expense_paid": 0.0,
+        "expense_reserve": 0.0,
+        "recovery": 0.0,
+        "deductible": 0.0,
+        "total_incurred": 133010.0
+      }
+    ]
+  },
+  "schema_file": "outputs\\extraction_20260212_021430_6131_State_Fund_Online_-_\\extracted_schema.json",
+  "summary": {
+    "total_pages": 1,
+    "scanned_pages": 0,
+    "avg_confidence": 1.0,
+    "claims_count": 3
+  }
+}

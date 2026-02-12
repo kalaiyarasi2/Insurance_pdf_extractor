@@ -3,7 +3,7 @@ module.exports = {
         {
             name: "data-extraction-app",
             script: "backend/production_server.py",
-            interpreter: "c:/Users/Intern/data extraction/venv/Scripts/python.exe",
+            interpreter: "C:\\Users\\INTERN\\server\\Insurance_pdf_extractor\\venv\\Scripts\\python.exe",
             env: {
                 PORT: 5000,
                 FLASK_ENV: "production",
